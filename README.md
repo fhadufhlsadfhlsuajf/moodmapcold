@@ -4,8 +4,6 @@
 
 一个极简的冷酷值计算器。输入地点或经纬度，结合时间光照、地理人口、天气体感、文化心理四个维度，输出 0–100 的「冷酷值」。支持 Open-Meteo 实时天气、Nominatim 地名解析、Unsplash 地点配图。
 
-![screenshot](screenshot.png)
-
 ## 在线使用
 
 无需安装，打开即可用：**[https://moodmapcold.github.io/moodmapcold/](https://moodmapcold.github.io/moodmapcold/)**
