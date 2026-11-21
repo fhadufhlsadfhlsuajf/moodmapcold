@@ -6,7 +6,7 @@
 
 ## 在线使用
 
-无需安装，打开即可用：**[https://moodmapcold.github.io/moodmapcold/](https://moodmapcold.github.io/moodmapcold/)**
+无需安装，打开即可用：**[https://fhadufhlsadfhlsuajf.github.io/moodmapcold/](https://fhadufhlsadfhlsuajf.github.io/moodmapcold/)**
 
 > 本地使用：克隆仓库后，在目录执行 `python3 -m http.server 8000`，访问 `http://localhost:8000`。
 
@@ -43,7 +43,7 @@
 
 1. 进入仓库 Settings → Pages
 2. Source 选择 `main` 分支，文件夹选 `/ (root)`
-3. 保存后访问 `https://moodmapcold.github.io/moodmapcold/`
+3. 保存后访问 `https://fhadufhlsadfhlsuajf.github.io/moodmapcold/`
 
 ## 许可证
 
